@@ -1,7 +1,7 @@
 
 #!/usr/bin/env python3
 """
-daily_commit.py
+daily_commit.p
 Create or update `daily-activity.md` in a GitHub repository to record a daily activity entry.
 Requires environment variable GITHUB_TOKEN with a personal access token that has repo scope.
 """
