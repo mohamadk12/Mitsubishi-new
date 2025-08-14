@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-get_issues. py
+get_issues.py
 Fetch all open and closed issues from a GitHub repository and save them to issues_report.md
 Requires environment variable GITHUB_TOKEN with repo read access.
 """
