@@ -1,4 +1,4 @@
-#!/usr/bin/env python31
+#!/usr/bin/env python3
 """
 get_issues.py
 Fetch all open and closed issues from a GitHub repository and save them to issues_report.md
