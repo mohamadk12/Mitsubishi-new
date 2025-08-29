@@ -30,7 +30,7 @@ def fetch_all_issues():
             break
         issues.extend(data)
         page += 1
-    return issue
+    return issues
 
 def save_markdown(issues):
     with open("issues_report.md", "w", encoding="utf-8") as f:
