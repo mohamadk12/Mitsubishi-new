@@ -42,7 +42,7 @@ def save_markdown(issues):
             url = issue["html_url"]
             f.write(f"- [#{number}]({url}) **{title}** — _{state}_\n")
 
-def main()
+def main():
     issues = fetch_all_issues()
     print(f"Fetched {len(issues)} issues.")
     save_markdown(issues)
