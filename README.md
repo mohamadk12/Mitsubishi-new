@@ -49,4 +49,4 @@ def main():
     print("Saved to issues_report.md")
 
 if __name__ == "__main__":
-    main()
+    main(
