@@ -12,7 +12,7 @@ import  requests
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") or "your_personal_access_token_here"
 OWNER = "your-github-username"   # e.g. "alice"
 REPO = "your-repo-name"          # e.g. "my-repo"
-# -------------------------------------------
+# ------------------------------------------ -
 
 API_URL = f"https://api.github.com/repos/{OWNER}/{REPO}/issues"
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
