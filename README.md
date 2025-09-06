@@ -1,4 +1,4 @@
-#!/usr/bin/env python ed
+#!/usr/bin/env python e
 """
 get_issues.py.type
 Fetch all open and closed issues from a GitHub repository and save them to issues_repord 
