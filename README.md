@@ -1,6 +1,6 @@
 #!/usr/bin/env python ed
 """
-get_issues.py.type
+get_issues .py.type
 Fetch all open and closed issues from a GitHub repository and save them to issues_repord 
 Requires environment variable GITHUB_TOKEN with repo read access.
 """
