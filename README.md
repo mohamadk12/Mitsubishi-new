@@ -8,7 +8,7 @@ Requires environment variable GITHUB_TOKEN with repo read access.
 import os
 import  requests
 
-# ----------------- CONFIG -----------------
+# ----------------- CONFIG -----------------4
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN") or "your_personal_access_token_here"
 OWNER = "your-github-username"   # e.g. "alice"
 REPO = "your-repo-name"          # e.g. "my-repo"
