@@ -33,7 +33,7 @@ def fetch_all_issues():
     return issues
 
 def save_markdown(issues):
-    with open("issues_report.md", "w", encoding="utf-8") as f:
+    with open("issues_report.md", "w", encoding="utf-8") as f
         f.write(f"# GitHub Issues Report for {OWNER}/{REPO}\n\n")
         for issue in issues:
             number = issue["number"]
