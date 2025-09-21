@@ -20,7 +20,7 @@ HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 def fetch_all_issues():
     issues = []
     page = 1
-    while True
+    while True:
         params = {"state": "all", "per_page": 100, "page": page}
         r = requests.get(API_URL, headers=HEADERS, params=params)
         if r.status_code != 200:
