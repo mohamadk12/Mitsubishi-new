@@ -29,7 +29,7 @@ def fetch_all_issues():
         if not data:
             break
         issues.extend(data)
-        page += 
+        page += 1
     return issues
 
 def save_markdown(issues):
