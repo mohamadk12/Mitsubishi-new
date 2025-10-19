@@ -1,6 +1,6 @@
 Mon
 
-#!/usr/bin/env python  
+#!/usr/bin/env python  8
 ""k in
 get_issues.py.type 
 Fetch all open and closed issues from a GitHub repository and save them to issues_repord 
