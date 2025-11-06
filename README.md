@@ -7,7 +7,7 @@ Fetch all open and closed issues from a GitHub repository and save them to issue
 Requires environment variable GITHUB_TOKEN with repo read access.
 """
 
-43
+
 import 
 import  requests
 
