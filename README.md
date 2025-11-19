@@ -9,7 +9,7 @@ Requires environment variable GITHUB_TOKEN with repo read access.
 
 
 import 
-import  requests h
+import  requests 
 
 # ----------------- CONFIG ------------------
 
