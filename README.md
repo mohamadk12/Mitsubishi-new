@@ -3,7 +3,7 @@
 #!/usr/bin/env python  
 ""k 
 get_issues.py.type 
-Fetch all open and closed issues from a GitHub repository and save them to issues_repord 
+Fetch all open and closed issues from a GitHub repository and save them to issues_repord v
 Requires environment variable GITHUB_TOKEN with repo read access.
 """
 
