@@ -1,4 +1,4 @@
-⁸Mona
+⁸Mon
 
 #!/usr/bin/env python 
 ""
