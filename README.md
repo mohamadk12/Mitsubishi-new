@@ -8,7 +8,7 @@ Requires environment variable GITHUB_TOKEN with repo read access.
 """
 
 
-import f
+import 
 import request
 
 # ----------------- CONFIG ------------------t
